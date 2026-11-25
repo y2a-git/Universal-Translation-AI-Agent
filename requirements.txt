@@ -1,0 +1,5 @@
+deep-translator>=1.11.4
+gTTS>=2.3.2
+pygame>=2.5.2
+requests>=2.31.0
+pyinstaller>=6.3.0
